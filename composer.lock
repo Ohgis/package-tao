@@ -1,0 +1,9 @@
+{
+  "packages": [],
+  "packages-dev": [],
+  "platform": {
+    "php": "8.2.19"
+  },
+  "platform-dev": [],
+  "content-hash": "随意の文字列"
+}
