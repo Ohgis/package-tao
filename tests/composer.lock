@@ -1,0 +1,8 @@
+{
+  "packages": [],
+  "packages-dev": [],
+  "platform": {
+    "php": "8.2.19"
+  },
+  "platform-dev": []
+}
