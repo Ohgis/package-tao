@@ -32,5 +32,10 @@
       "oat-sa/oatbox-extension-installer": true,
       "oat-sa/composer-npm-bridge": true
     }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "oat\\tao\\test\\": "tao/test/"
+    }
   }
 }
