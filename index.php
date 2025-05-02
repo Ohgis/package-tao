@@ -1,2 +1,2 @@
 <?php
-echo "TAO index loaded";
+echo "It works!";
