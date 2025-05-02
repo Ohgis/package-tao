@@ -26,5 +26,10 @@
   "require": {
     "php": "^8.2.19",
     "oat-sa/tao-community": "2024.03.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "oat-sa/oatbox-extension-installer": true
+    }
   }
 }
